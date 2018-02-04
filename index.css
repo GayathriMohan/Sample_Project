@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background-color: LightYellow;
+    background-color: grey;
     margin-left: 0px;
     color: black;
     padding: 7px;
@@ -11,7 +11,7 @@ header {
 }
 
 footer {
-    background-color: LightYellow;
+    background-color: grey;
     color: black;
     padding: 0px;
     text-align: center;
