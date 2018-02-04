@@ -1,0 +1,10 @@
+.dashboard-wrapper {
+    background-color: white;
+    width: 400px;
+    height: 200px;
+}
+
+.main {
+    padding-left: 175px;
+    padding-top: 20px;
+}
